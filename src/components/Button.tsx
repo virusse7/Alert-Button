@@ -1,11 +1,11 @@
 import React from "react";
 
-interface Button {
+interface ButtonProps {
     children: React.ReactNode;
     onClick: () => void;
 }
 
-const Button = ({ children, onClick }: Button) => {
+const Button = ({ children, onClick }: ButtonProps) => {
     return (
         <button
             onClick={onClick}
