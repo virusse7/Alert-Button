@@ -2,7 +2,7 @@
   "name": "alert-button",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://virusse7.github.io/alert-button/",
+  "homepage": "https://virusse7.github.io/Alert-Button/",
   "type": "module",
   "scripts": {
     "dev": "vite",
